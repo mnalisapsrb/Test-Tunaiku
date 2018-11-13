@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Valid mengisi Formulir Status Pernikahan (jika status Menikah)</description>
+   <name>TC2.1.8 Valid Ajukan Pinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ef34a0d-afa0-4f60-9f96-205a21eacd86</testCaseGuid>
+</TestCaseEntity>

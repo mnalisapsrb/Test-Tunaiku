@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid Mengisi Formulir Status Pernikahan (salah satu field kosong)</description>
+   <name>TC2.2.13 Invalid Ajukan Pinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2827fa23-d189-4601-bafe-567a48d890e8</testCaseGuid>
+</TestCaseEntity>

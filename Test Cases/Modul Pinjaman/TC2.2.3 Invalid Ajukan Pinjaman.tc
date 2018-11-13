@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid mengisi Formulir Pinjaman mencakup Data Pribadi dan Area Layanan (Invalid Nomor Rekening)</description>
+   <name>TC2.2.3 Invalid Ajukan Pinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb8cfb07-d462-4b12-993e-8b496f2b14c7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case untuk valid ajukan pinjaman pertama</description>
+   <name>TC2.1.1 Valid Ajukan Pinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d620efa3-c3b6-48fa-bffc-def143111321</testCaseGuid>
+</TestCaseEntity>

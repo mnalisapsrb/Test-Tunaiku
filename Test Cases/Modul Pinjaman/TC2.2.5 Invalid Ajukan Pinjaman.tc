@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid mengisi Formulir Alamat KTP (salah satu field kosong)</description>
+   <name>TC2.2.5 Invalid Ajukan Pinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed90fefa-98fb-45d6-8a79-14f6d7d055bf</testCaseGuid>
+</TestCaseEntity>

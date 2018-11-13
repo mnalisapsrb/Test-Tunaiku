@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid Ajukan Pinjaman (Format Email Salah)</description>
+   <name>TC2.2.1 Invalid Ajukan Pinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f9557e6-3d5a-40ea-b2b9-9c9d58ffcf61</testCaseGuid>
+</TestCaseEntity>

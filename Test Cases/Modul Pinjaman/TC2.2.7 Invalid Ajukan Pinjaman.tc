@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid Mengisi Formulir Status Tempat Tinggal (salah satu field kosong)</description>
+   <name>TC2.2.7 Invalid Ajukan Pinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d681b07e-6f00-4915-9c49-c2c998639f49</testCaseGuid>
+</TestCaseEntity>

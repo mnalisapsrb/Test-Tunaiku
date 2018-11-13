@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case untuk invalid yang login karena field nomor handphone dikosongkan</description>
+   <name>TC1.1.2 Invalid Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcffc1ce-de4d-4516-8970-59321089cd2e</testCaseGuid>
+</TestCaseEntity>

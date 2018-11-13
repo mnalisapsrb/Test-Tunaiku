@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Valid mengisi Formulir Alamat KTP</description>
+   <name>TC2.1.4 Valid Ajukan Pinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>597c0bae-832b-443c-a608-c1601bc58809</testCaseGuid>
+</TestCaseEntity>

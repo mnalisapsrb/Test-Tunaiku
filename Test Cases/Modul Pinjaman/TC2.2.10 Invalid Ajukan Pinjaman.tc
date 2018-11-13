@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid Mengisi Formulir Alamat Tempat Tinggal (invalid RT/RW)</description>
+   <name>TC2.2.10 Invalid Ajukan Pinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2d7dcdb-8802-40ae-82fc-ab5e00d8f409</testCaseGuid>
+</TestCaseEntity>

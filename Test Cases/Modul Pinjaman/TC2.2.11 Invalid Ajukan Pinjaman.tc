@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid Mengisi Formulir Pekerjaan Saat Ini, Data Penghasilan (salah satu field kosong)</description>
+   <name>TC2.2.11 Invalid Ajukan Pinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61961a73-f1aa-43f6-9417-e1cab2860bc2</testCaseGuid>
+</TestCaseEntity>

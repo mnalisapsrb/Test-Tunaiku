@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Valid mengisi Formulir Data Kerabat</description>
+   <name>TC2.1.9 Valid Ajukan Pinjaman</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0062306-f393-4af2-a7de-2fd895781140</testCaseGuid>
+</TestCaseEntity>
